@@ -1,0 +1,10 @@
+{
+    "name": "My AR Portal",
+    "short_name": "ARPortal",
+    "description": "An AR portal experience",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
+  
